@@ -35,3 +35,6 @@ Underline 2
 - <a href="http://www.google.com">Esto es un link HTML</a>
 - [Esto es un link en markdown](http://www.google.com)
 - [Esto es un link al index](index.html)
+
+# Imagenes
+![Logo Github](https://geekytheory.com/wp-content/uploads/2014/05/historia_octocat.jpg)
