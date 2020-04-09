@@ -31,3 +31,7 @@ Underline 2
 - esto es un item de lista no ordenada
 - esto es un item de lista no ordenada
 
+# Links
+- <a href="http://www.google.com">Esto es un link HTML</a>
+- [Esto es un link en markdown](http://www.google.com)
+- [Esto es un link al index](index.html)
